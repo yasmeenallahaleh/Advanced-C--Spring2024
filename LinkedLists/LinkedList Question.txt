@@ -1,0 +1,5 @@
+Sufficiently test and prove that they work as intended.  How do you prove it is working?
+
+You can prove that the Doubly Linked List is working because the order of the data values you original linked list will be displayed backwards starting with the last value and ending with the starting value
+You can prove that the Sorted List is working by the data values being sorted from smallest to greatest when its displayed.
+You can prove that that the prioritized list worked by bring the data values to front with the most priority and ordering the numbers by priority when displayed. 
